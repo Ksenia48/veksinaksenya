@@ -1,0 +1,32 @@
+<HTML>
+<HEAD> <TITLE> Dead Blonde </TITLE> </HEAD>
+<BODY bgcolor=#ffe4e1>
+<style>
+  body {
+    background: url('deadblonde.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+</style>
+
+<BODY  text="#320b35" bgcolor=d8bfd8 
+
+<<p style="font-family: Arial, sans-serif;" align=center>
+<p align=center> Главная | <a href=Info.html>Общая информация</a> | 
+<a href=History.html>История</a> | <a href=Disc.html>Дискография</a> |  <a href=film.html>Клипы</a>
+| <a href=links.html>Источники</a> | <a href=pay.html> Заказ мерча |</a> <a href=contact.html> Контакты </a> </p> 
+
+<font size="+2"> <H1 align=center><EM>Добро пожаловать на сайт, <BR>посвященный легендарной
+певице "Dead Blonde" </EM></H1> 
+<P align=justify> <center> Об этой группе написано столько, что вряд ли нам удалось бы добавить что-либо новое. На нашем
+сайте вы найдете <EM>историю создания группы, биографии участников, дискографию и фильмографию</EM>
+группы. Мы предлагаем вашему вниманию только <EM>достоверную</EM> информацию. </center> 
+<center>
+<P> Это учебный сайт <EM>демонстрационного содержания</EM>. Его цель - отработка технологии разметки
+гипертекстовых документов с помощью языка HTML. Более полную информацию о группе <EM>Dead Blonde</EM>
+вы найдете на других сайтах. Приносим свои извинения.</P> </center> 
+<HR align=center width=50% size=1 color=green>
+<P align=center> <FONT face=Arial size=1 > &copy; Все права защищены. Векшина Ксения, ЭФК111-1. 2024 </FONT></P>
+</BODY>
+</HTML>
